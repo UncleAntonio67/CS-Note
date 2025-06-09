@@ -200,7 +200,7 @@ python：依靠注释来生命
 包装链表类，实现iteratable接口
 
 继承（is-a）与封装
-       类内/包内/派生/外部
+类内/包内/派生/外部
 private
 默认
 protected
