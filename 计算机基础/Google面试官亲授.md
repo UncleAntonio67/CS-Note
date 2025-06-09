@@ -215,11 +215,7 @@ public
 final关键字无法保证不可变性
 从接口定义，类的实现上保证不可变性
 Collections.Unmodified
-
 泛型
-List
-ArrayList（Int/String）
-LinkedList（Int/String）
 第一层是结构，第二层是类型，从List到List<T>
 
 Java Type Erasure 
