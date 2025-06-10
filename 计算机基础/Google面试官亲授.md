@@ -207,20 +207,13 @@ public
 尽量只是用private、public
 
 不可变对象
-可以引用传递，可以缓存
-线程安全
+可以引用传递，可以缓存；线程安全
 final关键字无法保证不可变性
 通过final关键字声明，不能被继承、不能重写、不能指向其他对象
 从接口定义，类的实现上保证不可变性
 Collections.Unmodified
 泛型
 第一层是结构，第二层是类型，从List到List<T>
-
 Java Type Erasure 
 Covariance
-
-
-
-
-
 基础知识：广度优先、在兴趣点深入
